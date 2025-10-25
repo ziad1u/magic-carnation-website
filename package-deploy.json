@@ -1,0 +1,14 @@
+{
+  "name": "Magic Carnation Auto Deploy",
+  "version": "1.0.0",
+  "description": "Auto deploy script for Magic Carnation website",
+  "scripts": {
+    "deploy": "powershell -ExecutionPolicy Bypass -File auto_deploy_fixed.ps1",
+    "deploy:github": "gh repo create magic-carnation-website --public --description 'Magic Carnation TikTok Agency Website' --source=. --remote=origin --push",
+    "setup:git": "git config --global credential.helper store",
+    "auth:github": "gh auth login --web"
+  },
+  "keywords": ["deploy", "github", "magic-carnation"],
+  "author": "Magic Carnation",
+  "license": "MIT"
+}
