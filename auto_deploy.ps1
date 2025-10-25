@@ -45,3 +45,4 @@ try {
 }
 
 Write-Host "🎉 Auto deploy completed!" -ForegroundColor Green
+

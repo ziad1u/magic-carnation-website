@@ -1,5 +1,5 @@
 @echo off
-echo 🚀 رفع سريع على GitHub...
+echo 🚀 رفع تلقائي على GitHub...
 echo.
 
 REM إضافة مسارات الأدوات
@@ -14,27 +14,27 @@ git add .
 
 echo.
 echo 💾 حفظ التحديثات...
-git commit -m "Last project update"
+git commit -m "Auto deploy: Magic Carnation website updates"
 
 echo.
 echo 🌐 محاولة رفع على GitHub...
-echo إذا لم يكن لديك repository، سيتم إنشاؤه...
 
-REM محاولة الرفع
+REM محاولة الرفع على main
 git push origin main 2>nul
 if %errorlevel% neq 0 (
+    REM محاولة الرفع على master
     git push origin master 2>nul
     if %errorlevel% neq 0 (
         echo.
-        echo ⚠️  لم يتم الرفع تلقائياً. يرجى اتباع التعليمات اليدوية:
+        echo ⚠️  لم يتم الرفع تلقائياً. يرجى إنشاء repository أولاً:
         echo.
         echo 1. اذهب إلى: https://github.com/new
         echo 2. أنشئ repository باسم: magic-carnation-website
-        echo 3. ارفع الملفات من مجلد المشروع
+        echo 3. ثم استخدم الأوامر التالية:
         echo.
-        echo أو استخدم الأوامر التالية:
-        echo git remote add origin https://github.com/USERNAME/magic-carnation-website.git
-        echo git push -u origin main
+        echo    git remote add origin https://github.com/USERNAME/magic-carnation-website.git
+        echo    git branch -M main
+        echo    git push -u origin main
         echo.
         pause
     ) else (
@@ -47,4 +47,3 @@ if %errorlevel% neq 0 (
 )
 
 pause
-

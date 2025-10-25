@@ -41,3 +41,4 @@ if ($LASTEXITCODE -eq 0) {
 }
 
 Write-Host "Auto deploy completed!" -ForegroundColor Green
+

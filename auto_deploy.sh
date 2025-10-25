@@ -38,3 +38,4 @@ else
 fi
 
 echo "🎉 Auto deploy completed!"
+
