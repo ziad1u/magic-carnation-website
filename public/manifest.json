@@ -1,0 +1,94 @@
+{
+  "name": "Magic Carnation - TikTok Content Agency",
+  "short_name": "Magic Carnation",
+  "description": "وكالة متخصصة في إنتاج محتوى تيكتوك إبداعي وجذاب يحقق ملايين المشاهدات",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#ec4899",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "ar",
+  "dir": "rtl",
+  "categories": ["business", "entertainment", "social"],
+  "icons": [
+    {
+      "src": "/mag svg.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/mag svg.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/mag svg.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/hero-image.jpg",
+      "sizes": "1280x720",
+      "type": "image/jpeg",
+      "form_factor": "wide",
+      "label": "Magic Carnation Homepage"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "انضم للوكالة",
+      "short_name": "انضم",
+      "description": "انضم لوكالة Magic Carnation",
+      "url": "/#join-agency",
+      "icons": [
+        {
+          "src": "/mag svg.svg",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "طلب عمل",
+      "short_name": "وظائف",
+      "description": "اطلب وظيفة في Magic Carnation",
+      "url": "/#job-application",
+      "icons": [
+        {
+          "src": "/mag svg.svg",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "تواصل معنا",
+      "short_name": "تواصل",
+      "description": "تواصل مع فريق Magic Carnation",
+      "url": "/#contact",
+      "icons": [
+        {
+          "src": "/mag svg.svg",
+          "sizes": "96x96"
+        }
+      ]
+    }
+  ],
+  "related_applications": [
+    {
+      "platform": "webapp",
+      "url": "https://magiccarnation.com/manifest.json"
+    }
+  ],
+  "prefer_related_applications": false,
+  "edge_side_panel": {
+    "preferred_width": 400
+  },
+  "launch_handler": {
+    "client_mode": "focus-existing"
+  }
+}

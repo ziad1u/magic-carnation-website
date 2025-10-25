@@ -1,0 +1,473 @@
+{
+  "hero_title1": "أنشئ محتوى تيك توك",
+  "hero_title2": "يحقق ملايين المشاهدات",
+  "hero_desc": "نحن شركاء TikTok الرسميون، تأسست شركتنا عام 2023 في طنجة – المغرب، بهدف تمكين صُنّاع المحتوى من إطلاق كامل إمكاناتهم الإبداعية. نعمل على اكتشاف، تطوير، وصناعة نجوم الغد من خلال دعم المواهب الشابة وتحويلها إلى محترفين في إنتاج المحتوى الإبداعي والجذاب. بفريقنا المتخصص وشراكاتنا الاستراتيجية، نسعى إلى أن نكون الوكالة الرائدة في مجال الترفيه وصناعة المحتوى في منطقة الشرق الأوسط وشمال إفريقيا، واضعين الابتكار والجودة في صميم كل ما نقوم به.",
+  "join_agency": "انضم لوكالتنا",
+  "see_works": "شاهد أعمالنا",
+  "job_application": "طلب عمل",
+  "send_project_request": "إرسال طلب المشروع",
+  "services": "الخدمات",
+  "portfolio": "أعمالنا",
+  "team": "الفريق",
+  "contact": "تواصل معنا",
+  "project_details": "تفاصيل المشروع",
+  "back": "عودة",
+  "copy_link": "نسخ الرابط",
+  "visit_account": "زيارة الحساب",
+  "terms_privacy": "الشروط وسياسة الخصوصية",
+  "welcome_magic": "مرحباً بك في Magic Carnation",
+  "start_browsing": "ابدأ التصفح",
+  "all_works": "جميع الأعمال",
+  "educational_content": "محتوى تعليمي",
+  "commercial_ads": "إعلانات تجارية",
+  "entertainment_content": "محتوى ترفيهي",
+  "team_join_title": "انضم لوكالتنا اليوم",
+  "team_join_desc": "تواصل معنا الآن ودع خبراؤنا يحولون أفكارك إلى محتوى فيروسي يحقق النجاح",
+  "join_team": "انضم لفريقنا المتميز وكن جزءاً من نجاحات تيك توك",
+  "send": "إرسال",
+  "email_signup": "سجّل بالبريد الإلكتروني",
+  "apple": "Apple",
+  "google": "Google",
+  "facebook": "Facebook",
+  "accept_terms": "بدخولك أنت توافق على",
+  "agency": "الوكالة",
+  "edit": "تعديل",
+  "save": "حفظ",
+  "cancel": "إلغاء",
+  "live_moderator_title": "طلب العمل كمشرف لايف",
+  "live_moderator_subtitle": "انضم إلى فريقنا كمشرف لايف واحصل على فرصة للعمل في بيئة ديناميكية ومثيرة",
+  "live_moderator_benefits_title": "مميزات العمل كمشرف لايف",
+  "competitive_salary": "راتب تنافسي",
+  "competitive_salary_desc": "راتب شهري مميز مع حوافز إضافية",
+  "flexible_work_environment": "بيئة عمل مرنة",
+  "flexible_work_environment_desc": "ساعات عمل مرنة وإمكانية العمل من المنزل",
+  "professional_development": "تطوير مهني",
+  "professional_development_desc": "فرص للتعلم والنمو في مجال الإعلام",
+  "supportive_team": "فريق داعم",
+  "supportive_team_desc": "فريق عمل متعاون ومحترف",
+  "modern_equipment": "معدات حديثة",
+  "modern_equipment_desc": "أحدث التقنيات والمعدات للعمل",
+  "prestigious_position": "مكانة مميزة",
+  "prestigious_position_desc": "كن جزءاً من فريق Magic Carnation",
+  "job_requirements_title": "متطلبات الوظيفة",
+  "basic_requirements": "المتطلبات الأساسية",
+  "required_skills": "المهارات المطلوبة",
+  "live_streaming_experience": "خبرة في الإشراف على البث المباشر",
+  "excellent_communication": "مهارات تواصل ممتازة",
+  "work_under_pressure": "القدرة على العمل تحت الضغط",
+  "streaming_platform_experience": "خبرة في استخدام منصات البث",
+  "punctuality": "الالتزام بالمواعيد",
+  "arabic_proficiency": "إتقان اللغة العربية",
+  "content_management_experience": "خبرة في إدارة المحتوى",
+  "problem_solving_skills": "مهارات حل المشاكل",
+  "teamwork_ability": "القدرة على العمل الجماعي",
+  "technology_experience": "خبرة في التكنولوجيا",
+  "live_moderator_application_title": "طلب العمل كمشرف لايف",
+  "full_name": "الاسم الكامل",
+  "enter_full_name": "أدخل اسمك الكامل",
+  "age": "العمر",
+  "enter_age": "أدخل عمرك",
+  "required": "ضروري",
+  "choose_gender": "اختر الجنس",
+  "male": "ولد",
+  "female": "بنت",
+  "phone_number": "رقم الهاتف",
+  "enter_phone": "أدخل رقم هاتفك",
+  "tiktok_account_as_moderator": "حساب تيك توك كمشرف",
+  "live_streaming_experience_level": "خبرتك في الإشراف على البث المباشر",
+  "beginner": "مبتدئ",
+  "intermediate": "متوسط",
+  "expert": "خبير",
+  "work_availability": "توفرك للعمل",
+  "choose_availability": "اختر توفرك",
+  "full_time": "دوام كامل",
+  "part_time": "دوام جزئي",
+  "flexible": "مرن",
+  "weekends": "عطلات نهاية الأسبوع",
+  "languages_you_speak": "اللغات التي تتقنها",
+  "languages_example": "مثال: العربية، الإنجليزية، الفرنسية",
+  "goals_from_live_moderator_work": "أهدافك من العمل كمشرف لايف",
+  "goals_placeholder": "أخبرنا عن أهدافك وطموحاتك في هذا المجال...",
+  "submit_live_moderator_application": "إرسال طلب العمل كمشرف لايف",
+  "contact_via_whatsapp": "تواصل عبر واتساب",
+  "back_to_homepage": "العودة للصفحة الرئيسية",
+  "join_agency_title": "انضم للوكالة",
+  "join_agency_subtitle": "كن جزءاً من شبكة المبدعين الأكثر نجاحاً في المنطقة واحصل على الدعم الكامل لتطوير محتواك وزيادة متابعيك",
+  "agency_benefits_title": "مميزات الانضمام للوكالة",
+  "rapid_growth": "نمو سريع",
+  "rapid_growth_desc": "استراتيجيات مثبتة لزيادة المتابعين والمشاهدات",
+  "professional_support": "دعم احترافي",
+  "professional_support_desc": "فريق متخصص لمساعدتك في كل خطوة",
+  "business_opportunities": "فرص تجارية",
+  "business_opportunities_desc": "ربطك بالعلامات التجارية والرعاة",
+  "exclusive_content": "محتوى حصري",
+  "exclusive_content_desc": "أفكار وترندات حصرية قبل الجميع",
+  "professional_production": "إنتاج احترافي",
+  "professional_production_desc": "دعم في إنتاج وتحرير المحتوى",
+  "elite_position": "مكانة مميزة",
+  "elite_position_desc": "كن جزءاً من نخبة صناع المحتوى",
+  "success_stories_title": "قصص نجاح شركائنا",
+  "before": "قبل",
+  "after": "بعد",
+  "join_requirements_title": "شروط الانضمام",
+  "minimum_requirements": "الحد الأدنى للمتطلبات",
+  "what_we_look_for": "ما نبحث عنه",
+  "minimum_1000_followers": "1000 متابع على الأقل",
+  "original_creative_content": "محتوى أصلي وإبداعي",
+  "regular_activity": "نشاط منتظم (3 فيديوهات أسبوعياً)",
+  "community_standards": "التزام بمعايير المجتمع",
+  "high_video_quality": "جودة فيديو عالية",
+  "distinctive_personality": "شخصية مميزة وجذابة",
+  "positive_audience_interaction": "التفاعل الإيجابي مع الجمهور",
+  "desire_to_develop": "الرغبة في التطوير والنمو",
+  "openness_to_cooperation": "الانفتاح على التعاون",
+  "commitment_to_deadlines": "الالتزام بالمواعيد",
+  "agency_application_title": "طلب الانضمام للوكالة",
+  "do_you_have_tiktok": "هل لديك حساب تيك توك؟",
+  "yes": "نعم",
+  "no": "لا",
+  "share_tiktok_username": "شاركنا اسم حسابك من فضلك",
+  "content_type_you_produce": "نوع المحتوى الذي تنتجه",
+  "choose_content_type": "اختر نوع المحتوى",
+  "comedy": "كوميدي",
+  "lifestyle": "نمط حياة",
+  "beauty_fashion": "جمال وموضة",
+  "food": "طعام",
+  "educational": "تعليمي",
+  "sports": "رياضة",
+  "music_dance": "موسيقى ورقص",
+  "technology": "تقنية",
+  "other": "أخرى",
+  "goals_from_joining_agency": "أهدافك من الانضمام للوكالة",
+  "goals_agency_placeholder": "أخبرنا عن أهدافك وطموحاتك...",
+  "content_creation_experience": "خبرتك في صناعة المحتوى",
+  "very_good": "جيد جداً",
+  "submit_agency_application": "إرسال طلب الانضمام للوكالة",
+  "back_to_homepage": "العودة للصفحة الرئيسية",
+  "join_agency_title": "انضم للوكالة",
+  "join_agency_subtitle": "كن جزءاً من أكثر شبكة مؤثرين نجاحاً في المنطقة واحصل على دعم كامل لتطوير محتواك ونمو متابعيك",
+  "agency_benefits_title": "مميزات الانضمام للوكالة",
+  "rapid_growth": "نمو سريع",
+  "rapid_growth_desc": "زيادة عدد المتابعين والمشاهدات بشكل سريع",
+  "professional_support": "دعم مهني",
+  "professional_support_desc": "فريق محترف يدعمك في كل خطوة",
+  "business_opportunities": "فرص تجارية",
+  "business_opportunities_desc": "شراكات تجارية مربحة مع العلامات التجارية",
+  "exclusive_content": "محتوى حصري",
+  "exclusive_content_desc": "وصول إلى محتوى إبداعي حصري",
+  "monetization": "تحقيق الدخل",
+  "monetization_desc": "طرق متعددة لتحقيق الدخل من المحتوى",
+  "global_reach": "وصول عالمي",
+  "global_reach_desc": "الوصول إلى جمهور عالمي متنوع",
+  "job_application_title": "طلب العمل",
+  "job_application_subtitle": "انضم إلى فريقنا المتميز وكن جزءاً من نجاحات تيك توك",
+  "available_positions": "الوظائف المتاحة",
+  "video_editor": "محرر فيديو",
+  "video_editor_desc": "مونتاج وتحرير الفيديوهات بشكل احترافي",
+  "marketing_manager": "مدير تسويق",
+  "marketing_manager_desc": "إدارة الحملات التسويقية وتحليل الأداء",
+  "content_creator": "منشئ محتوى",
+  "content_creator_desc": "إنتاج محتوى إبداعي وجذاب",
+  "required": "ضروري",
+  "full_name": "الاسم الكامل",
+  "enter_full_name": "أدخل اسمك الكامل",
+  "gender": "الجنس",
+  "phone_number": "رقم الهاتف",
+  "enter_phone": "أدخل رقم هاتفك",
+  "location": "الموقع",
+  "enter_location": "أدخل موقعك",
+  "experience": "الخبرة",
+  "enter_experience": "أخبرنا عن خبرتك",
+  "portfolio": "معرض الأعمال",
+  "upload_portfolio": "ارفع معرض أعمالك",
+  "skills": "المهارات",
+  "select_skills": "اختر مهاراتك",
+  "availability": "التوفر",
+  "enter_availability": "أخبرنا عن توفرك",
+  "expected_salary": "الراتب المتوقع",
+  "enter_salary": "أدخل راتبك المتوقع",
+  "motivation": "الدافع",
+  "enter_motivation": "أخبرنا عن دافعك للانضمام",
+  "submit_job_application": "إرسال طلب العمل",
+  "contact_via_whatsapp": "تواصل عبر واتساب",
+  "select_gender": "اختر الجنس",
+  "male": "ذكر",
+  "female": "أنثى",
+  "host_names": "دعاء, ميساء, أميمة, هدى, فاطمة, حفصة, حسناء, رحاب",
+  "testimonial_1_name": "سارة أحمد",
+  "testimonial_1_role": "مؤثرة في مجال الجمال",
+  "testimonial_1_content": "Magic Carnation ساعدتني في الوصول إلى أكثر من مليون متابع خلال 6 أشهر فقط!",
+  "testimonial_2_name": "محمد علي",
+  "testimonial_2_role": "مؤثر كوميدي",
+  "testimonial_2_content": "الفريق محترف جداً والنتائج مذهلة. أنصح الجميع بالتعامل معهم.",
+  "testimonial_3_name": "نور حسن",
+  "testimonial_3_role": "مؤثرة نمط حياة",
+  "testimonial_3_content": "استراتيجياتهم فعالة ومحتواهم إبداعي. حققت أهدافي بسرعة.",
+  "telegram_live_moderator_title": "🌟 طلب العمل كمشرف لايف",
+  "telegram_agency_join_title": "🌟 طلب انضمام للوكالة",
+  "telegram_name": "الاسم",
+  "telegram_gender": "الجنس",
+  "telegram_phone": "الهاتف",
+  "telegram_age": "العمر",
+  "telegram_tiktok_account": "حساب تيك توك",
+  "telegram_goals": "الأهداف",
+  "telegram_experience": "الخبرة",
+  "telegram_availability": "التوفر",
+  "telegram_languages": "اللغات",
+  "telegram_sent_at": "تاريخ الإرسال",
+  "telegram_content_type": "نوع المحتوى",
+  "telegram_has_tiktok": "هل لديك حساب تيك توك؟",
+  "professional_production": "إنتاج احترافي",
+  "professional_production_desc": "فريق إنتاج محترف لضمان جودة المحتوى",
+  "elite_position": "مكانة نخبوية",
+  "elite_position_desc": "انضم إلى نخبة المؤثرين في المنطقة",
+  "success_stories_title": "قصص النجاح",
+  "success_story_1_name": "سارة أحمد",
+  "success_story_1_handle": "@sarah_content",
+  "success_story_1_before": "50K",
+  "success_story_1_after": "2.5M",
+  "success_story_1_growth": "+4900%",
+  "success_story_1_story": "من 50 ألف إلى 2.5 مليون متابع في 8 أشهر",
+  "success_story_2_name": "محمد علي",
+  "success_story_2_handle": "@mohammed_comedy",
+  "success_story_2_before": "100K",
+  "success_story_2_after": "5M",
+  "success_story_2_growth": "+4900%",
+  "success_story_2_story": "أصبح من أشهر صناع المحتوى الكوميدي",
+  "success_story_3_name": "نور حسن",
+  "success_story_3_handle": "@noor_lifestyle",
+  "success_story_3_before": "25K",
+  "success_story_3_after": "1.8M",
+  "success_story_3_growth": "+7100%",
+  "success_story_3_story": "حققت عقود رعاية بقيمة 500 ألف ريال",
+  "services": "الخدمات",
+  "portfolio": "أعمالنا",
+  "team": "الفريق",
+  "contact": "تواصل معنا",
+  "our_partners_success_stories": "قصص نجاح شركائنا",
+  "before": "قبل",
+  "after": "بعد",
+  "from_to_followers": "من {from} إلى {to} متابع في {months} أشهر",
+  "became_famous_creator": "أصبح من أشهر صناع المحتوى",
+  "achieved_sponsorship_deals": "حققت عقود رعاية بقيمة {amount}",
+  "joining_requirements": "متطلبات الانضمام",
+  "minimum_requirements": "الحد الأدنى من المتطلبات",
+  "at_least_1000_followers": "على الأقل 1000 متابع",
+  "original_creative_content": "محتوى أصلي وإبداعي",
+  "regular_activity": "نشاط منتظم (3 فيديوهات أسبوعياً)",
+  "commitment_community_standards": "الالتزام بمعايير المجتمع",
+  "high_video_quality": "جودة فيديو عالية",
+  "what_we_looking_for": "ما نبحث عنه",
+  "distinctive_attractive_personality": "شخصية مميزة وجذابة",
+  "positive_interaction_audience": "تفاعل إيجابي مع الجمهور",
+  "desire_develop_grow": "الرغبة في التطوير والنمو",
+  "openness_collaboration": "الانفتاح على التعاون",
+  "commitment_deadlines": "الالتزام بالمواعيد",
+  "agency_join_application": "طلب الانضمام للوكالة",
+  "age": "العمر",
+  "enter_age": "أدخل عمرك",
+  "please_share_account_name": "من فضلك شارك اسم حسابك",
+  "username_placeholder": "@username",
+  "type_content_produce": "نوع المحتوى الذي تنتجه",
+  "choose_content_type": "اختر نوع المحتوى",
+  "goals_joining_agency": "أهدافك من الانضمام للوكالة",
+  "tell_goals_ambitions": "أخبرنا عن أهدافك وطموحاتك...",
+  "experience_content_creation": "خبرتك في صناعة المحتوى",
+  "beginner": "مبتدئ",
+  "intermediate": "متوسط",
+  "submit_agency_join_application": "إرسال طلب الانضمام للوكالة",
+  "choose_gender": "اختر الجنس",
+  "beauty_fashion": "جمال وموضة",
+  "educational": "تعليمي",
+  "music_dance": "موسيقى ورقص",
+  "technology": "تقنية",
+  "very_good": "جيد جداً",
+  "submit_agency_application": "إرسال طلب الانضمام للوكالة",
+  "join_requirements_title": "متطلبات الانضمام",
+  "minimum_requirements": "الحد الأدنى من المتطلبات",
+  "minimum_1000_followers": "على الأقل 1000 متابع",
+  "original_creative_content": "محتوى أصلي وإبداعي",
+  "regular_activity": "نشاط منتظم (3 فيديوهات أسبوعياً)",
+  "community_standards": "الالتزام بمعايير المجتمع",
+  "high_video_quality": "جودة فيديو عالية",
+  "what_we_look_for": "ما نبحث عنه",
+  "distinctive_personality": "شخصية مميزة وجذابة",
+  "positive_audience_interaction": "تفاعل إيجابي مع الجمهور",
+  "desire_to_develop": "الرغبة في التطوير والنمو",
+  "openness_to_cooperation": "الانفتاح على التعاون",
+  "commitment_to_deadlines": "الالتزام بالمواعيد",
+  "do_you_have_tiktok": "هل لديك حساب تيك توك؟",
+  "yes": "نعم",
+  "no": "لا",
+  "share_tiktok_username": "من فضلك شارك اسم حسابك",
+  "content_type_you_produce": "نوع المحتوى الذي تنتجه",
+  "goals_from_joining_agency": "أهدافك من الانضمام للوكالة",
+  "goals_agency_placeholder": "أخبرنا عن أهدافك وطموحاتك...",
+  "content_creation_experience": "خبرتك في صناعة المحتوى",
+  "contact_via_whatsapp": "تواصل عبر واتساب",
+  "rapid_growth": "نمو سريع",
+  "rapid_growth_desc": "استراتيجيات مثبتة لزيادة المتابعين والمشاهدات",
+  "professional_support": "دعم مهني",
+  "professional_support_desc": "فريق متخصص لمساعدتك في كل خطوة",
+  "business_opportunities": "فرص تجارية",
+  "business_opportunities_desc": "نربطك بالعلامات التجارية والرعاة",
+  "exclusive_content": "محتوى حصري",
+  "exclusive_content_desc": "أفكار واتجاهات حصرية قبل الجميع",
+  "professional_production": "إنتاج احترافي",
+  "professional_production_desc": "دعم في إنتاج وتحرير المحتوى",
+  "elite_position": "مكانة نخبوية",
+  "elite_position_desc": "كن جزءاً من نخبة صناع المحتوى",
+  "success_stories_title": "قصص نجاح شركائنا",
+  "success_story_1_name": "سارة أحمد",
+  "success_story_1_handle": "@sarah_content",
+  "success_story_1_before": "50K",
+  "success_story_1_after": "2.5M",
+  "success_story_1_growth": "+4900%",
+  "success_story_1_story": "من 50 ألف إلى 2.5 مليون متابع في 8 أشهر",
+  "success_story_2_name": "محمد علي",
+  "success_story_2_handle": "@mohammed_comedy",
+  "success_story_2_before": "100K",
+  "success_story_2_after": "5M",
+  "success_story_2_growth": "+4900%",
+  "success_story_2_story": "أصبح من أشهر صناع المحتوى الكوميدي",
+  "success_story_3_name": "نور حسن",
+  "success_story_3_handle": "@noor_lifestyle",
+  "success_story_3_before": "25K",
+  "success_story_3_after": "1.8M",
+  "success_story_3_growth": "+7100%",
+  "success_story_3_story": "حققت عقود رعاية بقيمة 500 ألف ريال",
+  "join_requirements_title": "متطلبات الانضمام",
+  "minimum_requirements": "الحد الأدنى من المتطلبات",
+  "minimum_1000_followers": "على الأقل 1000 متابع",
+  "original_creative_content": "محتوى أصلي وإبداعي",
+  "regular_activity": "نشاط منتظم (3 فيديوهات أسبوعياً)",
+  "community_standards": "الالتزام بمعايير المجتمع",
+  "high_video_quality": "جودة فيديو عالية",
+  "what_we_look_for": "ما نبحث عنه",
+  "distinctive_personality": "شخصية مميزة وجذابة",
+  "positive_audience_interaction": "تفاعل إيجابي مع الجمهور",
+  "desire_to_develop": "الرغبة في التطوير والنمو",
+  "openness_to_cooperation": "الانفتاح على التعاون",
+  "commitment_to_deadlines": "الالتزام بالمواعيد",
+  "agency_application_title": "طلب الانضمام للوكالة",
+  "required": "ضروري",
+  "full_name": "الاسم الكامل",
+  "enter_full_name": "أدخل اسمك الكامل",
+  "age": "العمر",
+  "enter_age": "أدخل عمرك",
+  "choose_gender": "اختر الجنس",
+  "male": "ذكر",
+  "female": "أنثى",
+  "phone_number": "رقم الهاتف",
+  "enter_phone": "أدخل رقم هاتفك",
+  "do_you_have_tiktok": "هل لديك حساب تيك توك؟",
+  "yes": "نعم",
+  "no": "لا",
+  "share_tiktok_username": "من فضلك شارك اسم حسابك",
+  "username_placeholder": "@username",
+  "content_type_you_produce": "نوع المحتوى الذي تنتجه",
+  "choose_content_type": "اختر نوع المحتوى",
+  "comedy": "كوميدي",
+  "lifestyle": "نمط حياة",
+  "beauty_fashion": "جمال وموضة",
+  "food": "طعام",
+  "educational": "تعليمي",
+  "sports": "رياضة",
+  "music_dance": "موسيقى ورقص",
+  "technology": "تقنية",
+  "other": "أخرى",
+  "goals_from_joining_agency": "أهدافك من الانضمام للوكالة",
+  "goals_agency_placeholder": "أخبرنا عن أهدافك وطموحاتك...",
+  "content_creation_experience": "خبرتك في صناعة المحتوى",
+  "beginner": "مبتدئ",
+  "intermediate": "متوسط",
+  "very_good": "جيد جداً",
+  "submit_agency_application": "إرسال طلب الانضمام للوكالة",
+  "contact_via_whatsapp": "تواصل عبر واتساب",
+  "success_stories_title": "قصص نجاح شركائنا",
+  "success_story_1_name": "سارة أحمد",
+  "success_story_1_handle": "@sarah_content",
+  "success_story_1_before": "50K",
+  "success_story_1_after": "2.5M",
+  "success_story_1_growth": "+4900%",
+  "success_story_1_story": "من 50 ألف إلى 2.5 مليون متابع في 8 أشهر",
+  "success_story_2_name": "محمد علي",
+  "success_story_2_handle": "@mohammed_comedy",
+  "success_story_2_before": "100K",
+  "success_story_2_after": "5M",
+  "success_story_2_growth": "+4900%",
+  "success_story_2_story": "أصبح من أشهر صناع المحتوى الكوميدي",
+  "success_story_3_name": "نور حسن",
+  "success_story_3_handle": "@noor_lifestyle",
+  "success_story_3_before": "25K",
+  "success_story_3_after": "1.8M",
+  "success_story_3_growth": "+7100%",
+  "success_story_3_story": "حققت عقود رعاية بقيمة 500 ألف ريال",
+  "join_requirements_title": "متطلبات الانضمام",
+  "minimum_requirements": "الحد الأدنى من المتطلبات",
+  "minimum_1000_followers": "على الأقل 1000 متابع",
+  "original_creative_content": "محتوى أصلي وإبداعي",
+  "regular_activity": "نشاط منتظم (3 فيديوهات أسبوعياً)",
+  "community_standards": "الالتزام بمعايير المجتمع",
+  "high_video_quality": "جودة فيديو عالية",
+  "what_we_look_for": "ما نبحث عنه",
+  "distinctive_personality": "شخصية مميزة وجذابة",
+  "positive_audience_interaction": "تفاعل إيجابي مع الجمهور",
+  "desire_to_develop": "الرغبة في التطوير والنمو",
+  "openness_to_cooperation": "الانفتاح على التعاون",
+  "commitment_to_deadlines": "الالتزام بالمواعيد",
+  "agency_application_title": "طلب الانضمام للوكالة",
+  "required": "ضروري",
+  "full_name": "الاسم الكامل",
+  "enter_full_name": "أدخل اسمك الكامل",
+  "age": "العمر",
+  "enter_age": "أدخل عمرك",
+  "choose_gender": "اختر الجنس",
+  "male": "ذكر",
+  "female": "أنثى",
+  "phone_number": "رقم الهاتف",
+  "enter_phone": "أدخل رقم هاتفك",
+  "do_you_have_tiktok": "هل لديك حساب تيك توك؟",
+  "yes": "نعم",
+  "no": "لا",
+  "share_tiktok_username": "من فضلك شارك اسم حسابك",
+  "username_placeholder": "@username",
+  "content_type_you_produce": "نوع المحتوى الذي تنتجه",
+  "choose_content_type": "اختر نوع المحتوى",
+  "comedy": "كوميدي",
+  "lifestyle": "نمط حياة",
+  "beauty_fashion": "جمال وموضة",
+  "food": "طعام",
+  "educational": "تعليمي",
+  "sports": "رياضة",
+  "music_dance": "موسيقى ورقص",
+  "technology": "تقنية",
+  "other": "أخرى",
+  "goals_from_joining_agency": "أهدافك من الانضمام للوكالة",
+  "goals_agency_placeholder": "أخبرنا عن أهدافك وطموحاتك...",
+  "content_creation_experience": "خبرتك في صناعة المحتوى",
+  "beginner": "مبتدئ",
+  "intermediate": "متوسط",
+  "very_good": "جيد جداً",
+  "submit_agency_application": "إرسال طلب الانضمام للوكالة",
+  "contact_via_whatsapp": "تواصل عبر واتساب",
+  "success_stories_title": "قصص نجاح شركائنا",
+  "success_story_1_name": "سارة أحمد",
+  "success_story_1_handle": "@sarah_content",
+  "success_story_1_before": "50K",
+  "success_story_1_after": "2.5M",
+  "success_story_1_growth": "+4900%",
+  "success_story_1_story": "من 50 ألف إلى 2.5 مليون متابع في 8 أشهر",
+  "success_story_2_name": "محمد علي",
+  "success_story_2_handle": "@mohammed_comedy",
+  "success_story_2_before": "100K",
+  "success_story_2_after": "5M",
+  "success_story_2_growth": "+4900%",
+  "success_story_2_story": "أصبح من أشهر صناع المحتوى الكوميدي",
+  "success_story_3_name": "نور حسن",
+  "success_story_3_handle": "@noor_lifestyle",
+  "success_story_3_before": "25K",
+  "success_story_3_after": "1.8M",
+  "success_story_3_growth": "+7100%",
+  "success_story_3_story": "حققت عقود رعاية بقيمة 500 ألف ريال"
+} 

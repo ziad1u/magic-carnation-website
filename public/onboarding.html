@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Onboarding Page</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; font-family: "Poppins", sans-serif; }
+    html, body { height: 100%; width: 100%; overflow: hidden; }
+    .background {
+      position: relative; height: 100vh; width: 100%;
+      background-image: url('/hero-image.jpg'); /* استخدم صورة متوفرة */
+      background-size: cover; background-position: center;
+    }
+    .overlay {
+      position: absolute; bottom: 0; left: 0; right: 0; height: 40%;
+      background: linear-gradient(to bottom, rgba(0,0,0,0), #000);
+    }
+    .button-container { position: absolute; bottom: 50px; width: 100%; display: flex; justify-content: center; }
+    .get-started {
+      background-color: #2b0057; color: #fff; border: none;
+      padding: 18px 80px; font-size: 18px; font-weight: 600;
+      border-radius: 20px; cursor: pointer; transition: 0.3s;
+    }
+    .get-started:hover { background-color: #3d007a; transform: translateY(-2px); }
+  </style>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="icon" href="/logo-magic.svg">
+  <meta name="theme-color" content="#2b0057">
+</head>
+<body>
+  <div class="background">
+    <div class="overlay"></div>
+    <div class="button-container">
+      <button class="get-started" onclick="startApp()">Get Started</button>
+    </div>
+  </div>
+
+  <script>
+    function startApp() {
+      // الانتقال للصفحة الرئيسية لتطبيق Vite/React
+      window.location.href = "/";
+    }
+  </script>
+</body>
+</html>
+
+

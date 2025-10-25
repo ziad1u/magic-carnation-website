@@ -1,0 +1,52 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "title": "How to Create Viral Content on TikTok",
+      "thumbnail": "/video-thumbnail-1.jpg",
+      "description": "Comprehensive guide to creating viral content that achieves widespread reach on TikTok",
+      "category": "educational",
+      "duration": "00:58",
+      "views": "2.8M",
+      "likes": "520K",
+      "comments": "18K",
+      "shares": "45K"
+    },
+    {
+      "id": 2,
+      "title": "Top 10 Digital Marketing Tips",
+      "thumbnail": "/video-thumbnail-2.jpg",
+      "description": "Golden tips for digital marketing from Magic Carnation experts",
+      "category": "educational",
+      "duration": "01:12",
+      "views": "1.9M",
+      "likes": "380K",
+      "comments": "12K",
+      "shares": "28K"
+    },
+    {
+      "id": 3,
+      "title": "Successful Marketing Campaign for Global Company",
+      "thumbnail": "/video-thumbnail-3.jpg",
+      "description": "How we achieved great success for a global company marketing campaign",
+      "category": "commercial",
+      "duration": "01:25",
+      "views": "3.5M",
+      "likes": "720K",
+      "comments": "25K",
+      "shares": "89K"
+    },
+    {
+      "id": 4,
+      "title": "Professional Content Creation Secrets",
+      "thumbnail": "/video-thumbnail-4.jpg",
+      "description": "Secrets and 5 years of experience in professional content creation",
+      "category": "educational",
+      "duration": "01:08",
+      "views": "1.2M",
+      "likes": "240K",
+      "comments": "8.5K",
+      "shares": "15K"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+# Netlify redirects for cleaner URLs
+/Contact /contact 301!
+/Privacy-Policy /privacy-policy 301!
+/Terms-and-Conditions /terms-conditions 301!
+/About-Us /about-us 301!
